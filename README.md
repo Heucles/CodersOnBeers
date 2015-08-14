@@ -7,9 +7,10 @@
 ### NodeJs Tools
 #### https://nodejstools.codeplex.com/
 ### Pacotes npm instalados de forma global:
-...*grunt-cli
-...*grunt
-...*bower
+1. grunt-cli
+2. grunt
+3. bower
 
+##Antes de executar o projeto pela primeira vez:
 1. Executar na linha de comando o comando npm install
 2. Executar na linha de comando o comando bower install
